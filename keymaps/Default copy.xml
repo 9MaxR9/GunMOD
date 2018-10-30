@@ -2,4 +2,7 @@
   <action id="BuildArtifact">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="ExternalSystem_18a6a1daocdinstallerfc83742dshadowJar">
+    <keyboard-shortcut first-keystroke="shift less" />
+  </action>
 </keymap>
