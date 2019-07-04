@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="D:/JetBrains/IntelliJ IDEA Community Edition 2018.2.2/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="D:\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\plugins\Kotlin\kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/PixelDevelopersPCMSI/.m2/repository" />
     <macro name="MCP_LOC" value="D:/Chrome Downloads/clean-legacy-workspace-masterb428a52dde8 - kopie/mcp" />
   </component>
