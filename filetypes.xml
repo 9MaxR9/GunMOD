@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ogg" type="Native" />
+      <mapping pattern="fdsf" type="PLAIN_TEXT" />
       <mapping pattern="emp_gun" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
